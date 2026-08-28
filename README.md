@@ -2,13 +2,12 @@
 
 Campus Connect is a native Android application built for an engineering college in 2019, connecting **students**, **teachers**, and **non-teaching staff** around day-to-day academic activities — notices, syllabus tracking, attendance, and branch-wise file sharing. It's backed by a PHP + MySQL REST-style API.
 
-This repository contains the original 2019 Android client and its PHP/MySQL backend.
+
 
 <p align="center">
   <img src="docs/screenshots/01-role-selection.png" width="220" alt="Role selection screen" />
   <img src="docs/screenshots/02-login.png" width="220" alt="Login screen" />
-  <img src="docs/screenshots/03-student-setup.png" width="220" alt="First-time student setup" />
-  <img src="docs/screenshots/04-teacher-branches.png" width="220" alt="Teacher branch selection" />
+  <img src="docs/screenshots/03-teacher-branches.png" width="220" alt="Teacher branch selection" />
 </p>
 
 ## Features
