@@ -1,12 +1,11 @@
 # Campus Connect
 
-Android app I built back in 2019 for my engineering college. Connects students, teachers and non-teaching staff for the usual college stuff - notices, syllabus tracking, attendance, branch-wise file sharing. This repo has the original Android client plus the PHP/MySQL backend for it.
+Android app I built back in 2019 for my engineering college. Connects students, teachers and non-teaching staff for the usual college stuff - notices, syllabus tracking, attendance, branch-wise file sharing.
 
 <p align="center">
   <img src="docs/screenshots/01-role-selection.png" width="220" alt="Role selection screen" />
   <img src="docs/screenshots/02-login.png" width="220" alt="Login screen" />
-  <img src="docs/screenshots/03-student-setup.png" width="220" alt="First-time student setup" />
-  <img src="docs/screenshots/04-teacher-branches.png" width="220" alt="Teacher branch selection" />
+  <img src="docs/screenshots/03-teacher-branches.png" width="220" alt="Teacher branch selection" />
 </p>
 
 ## What it does
